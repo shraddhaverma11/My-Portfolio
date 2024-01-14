@@ -1,10 +1,10 @@
 # My-Portfolio
-![profile](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/1c3daf3e-f0fb-4da1-916b-44ef2cba0b87.jpg)
-![profile1](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/e1984040-d510-4678-a99e-50afbf2634cb.jpg)
-![css](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/769e58fc-24f0-465a-a3b0-5f14023fc14e.png)
-![html](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/dde3cf20-0241-4dc4-be96-805495f84baa.png)
-![js](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/49455bb4-2637-40e3-9f02-e8b278d6f43e.png)
-![mysql](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/17c15394-1335-4930-b53f-a4dae359044f.png)
-![py](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/7a112533-48de-43e8-ae24-587284039bc8.png)
-![react](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/8b904e86-66fb-4d7a-9d77-25ba754d832b.png)
+![css](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/b88721c1-4bbf-4eb8-8454-9c3da846f634)
+![html](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/873abaff-a05d-4519-9d90-f8a4b69ab0ea)
+![js](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/eeb4fbc8-015d-4c91-b656-733cc7f20960)
+![mysql](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/18e1e14a-ebcc-4103-bbde-5a40da246d37)
+![profile](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/ed0969c7-a267-45e5-b663-10fb0382befd)
+![profile1](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/9deaebc4-13c6-4b8c-a6a7-edc29102607c)
+![py](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/afde7b11-f584-4a8b-ab50-ad96dbf32005)
+![react](https://github.com/shraddhaverma11/My-Portfolio/assets/149676426/dd3a3ec9-a921-462f-9a13-cd1a3d90d02d)
 
